@@ -1,8 +1,8 @@
 {
-  "name": "MyCollection",
+  "name": "icek-tb",
   "version": "0.1.0",
   "description": "Awesome collection",
-  "keywords": "awesome,template",
+  "keywords": ["icek","testbench"],
   "license": "GPL-2.0",
   "authors": [{
     "name": "",

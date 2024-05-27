@@ -1,6 +1,6 @@
 
 
-# MyCollection Collection
+# icek-tb Collection
 
 [![Icestudio][icestudio-image]][icestudio-url]
 ![Version][version-image]
